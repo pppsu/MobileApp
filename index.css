@@ -10,6 +10,9 @@ body {
     margin: auto;
 }
 
+h1{
+    font-family: 'Pattaya', sans-serif;
+}
 .content {
     text-align: center;
     padding: 20px;
